@@ -1,0 +1,15 @@
+.radhika_tbdr{
+  border: 1px dashed red;
+}
+
+header,footer{
+  height: 120px;
+  background-color: #0D7962;
+}
+main{
+  height: 700px;
+}
+.radhika_green{
+  background-color: #0D7962;
+
+}
